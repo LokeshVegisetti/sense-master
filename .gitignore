@@ -1,0 +1,9 @@
+.*
+!.travis.yml
+!.coveragerc
+!.gitignore
+__pycache__
+*.pyc
+videos
+dataset
+demo_output_videos
